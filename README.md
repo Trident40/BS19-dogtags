@@ -5,7 +5,7 @@
 <h1 align="center">BS19 - Survivor Dog Tags</h1>
 
 <p align="center">
-  <strong>Standalone Stamped Survivor Dog Tags, Survival-Streak Bounties, Nemesis Tracking & Black Market Fence Cash-Ins for BeyondSurvival (BS19)</strong><br />
+  <strong>BS19-Expansion Stamped Survivor Dog Tags, Survival-Streak Bounties, Nemesis Tracking & Black Market Fence Cash-Ins for BeyondSurvival (BS19)</strong><br />
   <sub>Developed by <strong>Trident40</strong></sub>
 </p>
 
